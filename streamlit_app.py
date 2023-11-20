@@ -1,4 +1,2 @@
-import streamlit
-streamlit.title('Celebration')
-streamlit.balloons()
-streamlit.snow()
+import streamlit as st
+st.title('Celebration')
